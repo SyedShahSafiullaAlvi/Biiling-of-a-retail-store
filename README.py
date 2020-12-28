@@ -26,4 +26,4 @@ elif price>500:
 finalAmount=price-discount
 
 print("Discount amount:\t{}\n----------------------------------\nFinal Amount:\t\t{}\n---------------------------------".format(discount,finalAmount))
-print("--Thank you!! Visit again--")
+print("---Thank you!! Visit again---")
